@@ -1,0 +1,20 @@
+.rongyu{
+	font-size:14px;
+}
+.rongyu:hover{
+	color:#b9f605;
+	text-decoration:none; 
+}
+.shape{
+	list-style-type: disc;
+}
+.title{
+	background-image:url("../image/menutitle.gif");
+	text-align:center;
+	background-position: 0% 50%;
+}
+.list{
+	background-image:url("../image/menuhover.gif");
+	text-align:center;
+	background-position: 0% 50%;
+}

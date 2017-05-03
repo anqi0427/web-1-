@@ -1,0 +1,40 @@
+body{
+	line-height:2em;
+}
+.news{
+	font:bolder 16px "微软雅黑";
+	color:#65a7d0;
+}
+.shape{
+	list-style-type:disc;
+}
+.color{
+	background-color:#404040;
+}
+.bgc{
+	background-color:#f0f0f0;
+}
+.height{
+	line-height:1em;
+}
+.font{
+	font-size:10px;
+	font-family:Arial;
+	line-height:1.5em;
+}
+body{
+	background-image: url("../image./qq.gif");
+	background-repeat: no-repeat;
+	background-position: 5% 80%;
+
+}
+.weibo{
+	background-image: url("../image./weibo.gif");
+	background-repeat: no-repeat;
+	background-position: 4% 97%;
+}
+.meijing{
+	background-image: url("../image./pic_foot_bg.gif");
+	background-repeat: no-repeat;
+	background-position: 30% 88%;
+}
